@@ -1,0 +1,39 @@
+body {
+    background-color: aliceblue;
+    font-family:'Akaya Telivigala' , cursive;
+}
+
+.header_div {
+    background-color: gray;
+    color: aliceblue;
+}
+
+.header_div p{
+    font-family: 'Roboto' , sans-serif;
+    letter-spacing: 2px;
+    font-size: 13px;
+    font-weight: bolder;
+}
+
+.main_div button    {
+    margin-top: 31px;
+    letter-spacing: 4px;
+    font-weight: bolder;
+    width: 130px;
+    font-family: 'Roboto' , sans-serif;
+}
+
+.footer {
+    text-shadow: 5px 5px 5px grey;
+    bottom: 0px;
+    text-align: center;
+    color: gray;
+    background-color: aliceblue;
+    font-size: 19px;
+    width: 100%;
+    position: fixed;
+    line-height: 4;
+}
+h4{
+    font-size: 25px;
+}
